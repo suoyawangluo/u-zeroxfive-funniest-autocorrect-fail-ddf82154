@@ -1,8 +1,8 @@
 # Funniest Autocorrect Fail — make.fun entry
 
-[![make.fun](https://make.fun/badge/owner/suoyawangluo)](https://make.fun)
-[![make.fun](https://make.fun/badge/repo/suoyawangluo/u-zeroxfive-funniest-autocorrect-fail-ddf82154)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154)
-[![make.fun](https://make.fun/badge/competition/u-zeroxfive-funniest-autocorrect-fail-ddf82154)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154)
+[![make.fun · u-zeroxfive-funniest-autocorrect-fail-ddf82154](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154.svg)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154)
+[![rank](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/suoyawangluo/u-zeroxfive-funniest-autocorrect-fail-ddf82154/rank.svg)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154)
+[![reward](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/suoyawangluo/u-zeroxfive-funniest-autocorrect-fail-ddf82154/reward.svg)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154)
 
 Entry for the [Funniest Autocorrect Fail](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154) bounty on make.fun.
 
